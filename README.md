@@ -1,0 +1,2 @@
+# rubySyntax
+exploring ruby snytax
